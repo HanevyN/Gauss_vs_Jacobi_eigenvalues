@@ -1,0 +1,14 @@
+# ninja log v6
+827	877	1754247882536409711	GaussianElimination	84f9a28b2a991341
+0	827	1754247881709414529	CMakeFiles/GaussianElimination.dir/main.cpp.o	2c998a8fc031e27e
+1	21	1754248771233603309	build.ninja	e5a9f0da888d8b63
+1	854	1754248771244603217	CMakeFiles/GaussianElimination.dir/main.cpp.o	2c998a8fc031e27e
+854	904	1754248772097596118	GaussianElimination	84f9a28b2a991341
+1	828	1754249048333577785	CMakeFiles/GaussianElimination.dir/main.cpp.o	2c998a8fc031e27e
+828	879	1754249049160572443	GaussianElimination	84f9a28b2a991341
+0	813	1754249167444841511	CMakeFiles/GaussianElimination.dir/main.cpp.o	2c998a8fc031e27e
+813	863	1754249168257836697	GaussianElimination	84f9a28b2a991341
+1	819	1754249947213003244	CMakeFiles/GaussianElimination.dir/main.cpp.o	2c998a8fc031e27e
+819	869	1754249948030999714	GaussianElimination	84f9a28b2a991341
+0	1042	1754250071297473957	CMakeFiles/GaussianElimination.dir/main.cpp.o	2c998a8fc031e27e
+1042	1104	1754250072338469566	GaussianElimination	84f9a28b2a991341
